@@ -19,3 +19,4 @@ num1.get_data()
 # and create a new attribute 'attr'
 num2 = ComplexNumber(5)
 num2.attr = 10
+print("ooooooooooooo")
